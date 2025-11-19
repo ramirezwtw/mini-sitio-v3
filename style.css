@@ -13,3 +13,9 @@
 button {
   padding: 10px 20px;
 }
+@media (max-width: 480px) {
+  #contacto input,
+  #contacto textarea {
+    width: 100%;
+  }
+}
