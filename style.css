@@ -1,21 +1,3 @@
-#contacto {
-  padding: 20px;
-  background: #f0f0f0;
-}
-
-#contacto input,
-#contacto textarea {
-  width: 300px;
-  margin-bottom: 10px;
-  display: block;
-}
-
-button {
-  padding: 10px 20px;
-}
-@media (max-width: 480px) {
-  #contacto input,
-  #contacto textarea {
-    width: 100%;
-  }
+body {
+  overflow-x: hidden;
 }
